@@ -19,6 +19,6 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "faraday", "~> 0.8.6"
   gem.add_dependency "faraday_middleware", "~> 0.9.0"
-  gem.add_dependency "activesupport", "~> 3.2"
+  gem.add_dependency "activesupport", "~> 4.0.0"
   gem.add_dependency "hashie", "~> 2.0.5"
 end
